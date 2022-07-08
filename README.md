@@ -1,4 +1,9 @@
 ### Hi there 👋
+# I am useme12321 a coder
+#### I write code
+## Facts about me:
+I write code
+I might be a cyborg (rather than a human)
 
 <!--
 **useme12321/useme12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
